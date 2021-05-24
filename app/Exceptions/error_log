@@ -1,0 +1,1 @@
+[12-Sep-2020 09:31:36 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/kgdvzlqc/public_html/xpertmart.in/app/Exceptions/Handler.php on line 8

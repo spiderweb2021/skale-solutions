@@ -1,0 +1,3 @@
+[18-Sep-2020 16:40:45 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/kgdvzlqc/public_html/xpertmart.in/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[26-Sep-2020 15:30:55 America/New_York] PHP Fatal error:  Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/kgdvzlqc/public_html/xpertmart.in/app/Http/Middleware/Authenticate.php on line 7
+[05-Oct-2020 06:36:07 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/kgdvzlqc/public_html/xpertmart.in/app/Http/Middleware/TrimStrings.php on line 7
