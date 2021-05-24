@@ -1,0 +1,8 @@
+[26-Aug-2020 15:04:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kgdvzlqc/public_html/xpertmart.in/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/config/database.php on line 18
+[27-Aug-2020 15:51:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/kgdvzlqc/public_html/xpertmart.in/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/config/services.php on line 18
