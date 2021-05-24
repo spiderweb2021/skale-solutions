@@ -1,0 +1,52 @@
+[08-Sep-2020 10:09:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/api.php on line 17
+[08-Sep-2020 22:37:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php on line 17
+[09-Sep-2020 19:20:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/api.php on line 17
+[10-Sep-2020 18:23:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/channels.php on line 16
+[12-Sep-2020 12:41:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php on line 17
+[13-Sep-2020 15:39:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/web.php on line 16
+[14-Sep-2020 02:12:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/api.php on line 17
+[20-Sep-2020 20:20:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/api.php on line 17
+[24-Sep-2020 12:16:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php on line 17
+[02-Oct-2020 00:39:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/web.php on line 16
+[03-Oct-2020 06:15:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/web.php on line 16
+[15-Oct-2020 17:32:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php on line 17
+[16-Oct-2020 07:04:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kgdvzlqc/public_html/xpertmart.in/routes/console.php on line 17
